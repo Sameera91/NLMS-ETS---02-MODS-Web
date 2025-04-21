@@ -32,7 +32,7 @@ const Home: React.FC = () => {
   return (
     <>
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-blue-900 to-slate-800 text-white py-24">
+      <section className="relative bg-gradient-to-r from-blue-900 to-slate-900 text-white py-24">
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/2519390/pexels-photo-2519390.jpeg?auto=compress&cs=tinysrgb&w=1600')] bg-cover bg-center opacity-20"></div>
         </div>
