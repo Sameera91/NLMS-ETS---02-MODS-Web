@@ -169,7 +169,7 @@ const Home: React.FC = () => {
       </section>
 
       {/* Call to Action */}
-      <section className="py-16 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
+      <section className="py-16 bg-gradient-to-r from-blue-500 to-blue-800 text-white">
         <div className="container-custom text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to Enhance Your ETS2 Experience?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
